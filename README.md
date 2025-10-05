@@ -1,6 +1,7 @@
-# Azure Certification Preparation
+# Azure Certificates Preparation
 
-This repository contains study materials, notes, and resources for various Microsoft Azure certifications. 
+This repository contains study materials, notes, and resources for Microsoft Azure certifications. 
+
 Each exam has its own folder with structured content to help you prepare efficiently.
 
 | Exam                      | Folder |
